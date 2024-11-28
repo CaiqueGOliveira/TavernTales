@@ -22,7 +22,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 0px 32px;
-  background-color: var(--marrom-escuro);
+  background-color: black;
   position: relative;
 }
 
@@ -49,7 +49,7 @@
   padding-top: 120px;
   width: 50vw;
   height: 100vh;
-  background-color: var(--marrom-escuro);
+  background-color: black;
   list-style: none;
 }
 
@@ -59,11 +59,11 @@
   padding-left: 32px;
   width: 100%;
   height: 64px;
-  border-bottom: 1px solid #616161;
+  border-bottom: 1px solid #212121;
 }
 
 .nav-mobile > li:hover {
-  background-color: var(--marrom);
+  background-color: var(--marrom-escuro);
 }
 
 #icon1 {
@@ -77,4 +77,10 @@
   top: 24px;
   font-size: 32px;
   cursor: pointer;
+}
+
+.container {
+    width: 100vw;
+    height: 90vh;
+    background-image: url('./Assets/taberna.jpg');
 }
