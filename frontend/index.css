@@ -62,13 +62,8 @@
   border-bottom: 1px solid #616161;
 }
 
-.nav-mobile > li:hover {
-  background-color: var(--marrom);
-}
-
 #icon1 {
   font-size: 32px;
-  cursor: pointer;
 }
 
 #icon2 {
@@ -76,5 +71,4 @@
   right: 24px;
   top: 24px;
   font-size: 32px;
-  cursor: pointer;
 }
