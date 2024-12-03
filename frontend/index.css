@@ -60,21 +60,15 @@
   width: 100%;
   height: 64px;
   border-bottom: 1px solid #616161;
-<<<<<<< HEAD
-=======
 }
 
 .nav-mobile > li:hover {
   background-color: var(--marrom);
->>>>>>> 14ed33d (Logica nav-mobile feita)
 }
 
 #icon1 {
   font-size: 32px;
-<<<<<<< HEAD
-=======
   cursor: pointer;
->>>>>>> 14ed33d (Logica nav-mobile feita)
 }
 
 #icon2 {
@@ -82,8 +76,5 @@
   right: 24px;
   top: 24px;
   font-size: 32px;
-<<<<<<< HEAD
-=======
   cursor: pointer;
->>>>>>> 14ed33d (Logica nav-mobile feita)
 }
