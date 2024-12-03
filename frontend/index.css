@@ -68,6 +68,7 @@
 
 #icon1 {
   font-size: 32px;
+  cursor: pointer;
 }
 
 #icon2 {
@@ -75,6 +76,7 @@
   right: 24px;
   top: 24px;
   font-size: 32px;
+  cursor: pointer;
 }
 
 .container {
